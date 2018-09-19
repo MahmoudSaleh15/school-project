@@ -8,6 +8,8 @@ Mahmoud Saleh's school project website.
 - Loading Screen
 
 ## To-Do List
+- [] Create a Repository
+- [] Pathway and files
 - Add a button navigator
 - Add a theme/template
 - Fix the title icon
